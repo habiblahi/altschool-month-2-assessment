@@ -1,4 +1,4 @@
-# Altschool Karatu-26 Month 1 Sssessment
+# Altschool Karatu-26 Month 1 Assessment
 
 Converted a Figma design into HTML and CSS.
 
