@@ -1,8 +1,8 @@
-# Altschool Karatu-26 Month 1 Assessment
+# Altschool Karatu-26 Month 1 Assessment (Scissor Landing Page)
 
-Converted a Figma design into HTML and CSS.
+A Figma design converted to HTML and CSS.
 
-## Languages
+## Languages Used
 
 - HTML (HyperText Markup Language)
 - CSS (Style Sheet Language)
