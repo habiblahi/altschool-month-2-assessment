@@ -1,4 +1,4 @@
-# Altschool Karatu-26 Month 1 Assessment (Scissor Landing Page)
+# Altschool Karatu-26 Month 2 Assessment (Scissor Landing Page)
 
 A Figma design converted to HTML and CSS.
 
